@@ -5,7 +5,7 @@
 # Install
 ```
 cd $HOME
-git clone https://github.com/WARRIORSTEAM/warriors.git
+git clone https://github.com/samyar-salehi/warriors.git
 cd warriors
 chmod +x install.sh
 ./install.sh
@@ -31,12 +31,3 @@ Create a bot!
 
 Tasted On Ubuntu 14.04 LTS and 16.04 LTS
 
-# Help And More...
-[Click here to join support!](https://t.me/zzz_mahsa_zzz)
-
-# Developer
-* [@Zzz_MahsA_zzZ](https://telegram.me/Zzz_MahsA_zzZ) - Mahsa Nasriri
-
-<b>Edit and Develop by WarriorsTeam</b>
-
-<i>special tnx to JoveTeam for this base</i>
